@@ -108,5 +108,5 @@ from HumanResources.Employee
 group by JobTitle
 HAVING COUNT(*) > 10
 
-Select * From JobTitleNumber
+
 
